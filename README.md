@@ -14,6 +14,10 @@
 ## Project Overview
 This data analysis project provides insights into the YouTube performance of different influencers around the world.
 
+
+![youtube pic](https://github.com/user-attachments/assets/cda4c954-b19d-4ee2-bd28-3df2281b8bd2)
+
+
 #### Data source
 The primary dataset used for this project is "youtube_data_united-states" gotten from Kaggle.
 
@@ -90,4 +94,4 @@ Based on the analysis, we recommend the following actions:
 
 - Potential Reach vs. Actual Impact: High reach does not necessarily translate into influence or engagement, limiting the usefulness of potential reach as a sole metric.
 
-#### This is a dataset that has been cleaned and visualized
+
