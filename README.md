@@ -12,7 +12,7 @@
 - [Limitations](#limitations)
   
 ## Project Overview
-This data analysis project provides insights into the YouTube performance of different influencers around the world.
+This data analysis project provides insights into the YouTube performance of different influencers worldwide.
 
 
 ![youtube pic](https://github.com/user-attachments/assets/cda4c954-b19d-4ee2-bd28-3df2281b8bd2)
